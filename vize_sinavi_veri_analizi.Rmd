@@ -41,7 +41,7 @@ Bu süre boyunca kültürlenen bitkilerde iki farklı ölçüm yapıyorlar:
 
 # Veri yükleme
 
-Uzaktan eğitim sistemine yüklenen veriyi indirip R içerisine yükleyiniz:
+Uzaktan eğitim sistemine yüklenen veriyi indirip R içerisine yükleyiniz?
 
 ```{r}
 # Cevabinizi buraya yaziniz
